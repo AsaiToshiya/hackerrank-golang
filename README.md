@@ -7,3 +7,4 @@
 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true) | [compare_the_triplets.go](compare_the_triplets.go) | 10.0 |
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true) | [a_very_big_sum.go](a_very_big_sum.go) | 10.0 |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true) | [diagonal_difference.go](diagonal_difference.go) | 10.0 |
+| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true) | [plus_minus.go](plus_minus.go) | 10.0 |
