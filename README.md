@@ -9,3 +9,4 @@
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true) | [diagonal_difference.go](diagonal_difference.go) | 10.0 |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true) | [plus_minus.go](plus_minus.go) | 10.0 |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true) | [staircase.go](staircase.go) | 10.0 |
+| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) | [mini_max_sum.go](mini_max_sum.go) | 10.0 |
