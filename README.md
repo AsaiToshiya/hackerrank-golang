@@ -11,3 +11,4 @@
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true) | [staircase.go](staircase.go) | 10.0 |
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) | [mini_max_sum.go](mini_max_sum.go) | 10.0 |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true) | [birthday_cake_candles.go](birthday_cake_candles.go) | 10.0 |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true) | [time_conversion.go](time_conversion.go) | 15.0 |
