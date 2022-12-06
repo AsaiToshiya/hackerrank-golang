@@ -17,7 +17,7 @@ import (
 
 func miniMaxSum(arr []int32) {
     var minValue, maxValue int32 = arr[0], 0
-    	var sum int64
+    var sum int64
     for _, n := range arr {
         minValue = min(minValue, n)
         maxValue = max(maxValue, n)
