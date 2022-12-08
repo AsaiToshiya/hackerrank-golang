@@ -13,3 +13,4 @@
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true) | [birthday_cake_candles.go](birthday_cake_candles.go) | 10.0 |
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true) | [time_conversion.go](time_conversion.go) | 15.0 |
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [grading.go](grading.go) | 10.0 |
+| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [apple_and_orange.go](apple_and_orange.go) | 10.0 |
