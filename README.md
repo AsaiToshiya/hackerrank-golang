@@ -18,3 +18,4 @@
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true) | [between_two_sets.go](between_two_sets.go) | 10.0 |
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) | [breaking_best_and_worst_records.go](breaking_best_and_worst_records.go) | 10.0 |
 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true) | [the_birthday_bar.go](the_birthday_bar.go) | 10.0 |
+| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true) | [divisible_sum_pairs.go](divisible_sum_pairs.go) | 10.0 |
