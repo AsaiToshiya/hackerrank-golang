@@ -21,3 +21,4 @@
 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true) | [divisible_sum_pairs.go](divisible_sum_pairs.go) | 10.0 |
 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true) | [migratory_birds.go](migratory_birds.go) | 10.0 |
 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true) | [day_of_the_programmer.go](day_of_the_programmer.go) | 15.0 |
+| [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) | [bon_appetit.go](bon_appetit.go) | 10.0 |
