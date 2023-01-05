@@ -23,3 +23,4 @@
 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true) | [day_of_the_programmer.go](day_of_the_programmer.go) | 15.0 |
 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) | [bon_appetit.go](bon_appetit.go) | 10.0 |
 | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true) | [sock_merchant.go](sock_merchant.go) | 10.0 |
+| [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true) | [drawing_book.go](drawing_book.go) | 10.0 |
